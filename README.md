@@ -1,7 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
-[![God Save The King](https://user-images.githubusercontent.com/84692125/189447017-ce388fb6-71ca-4e95-bf99-bd9e0f8badef.png)](https://www.royal.uk)
-
 ### Hi I'm Ryan 👋
 - 🔭 I’m currently working on the Criminal Justice Hub
 - 🌱 I’m learning Markdown 
