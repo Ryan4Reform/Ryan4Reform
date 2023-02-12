@@ -1,3 +1,7 @@
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Ryan4Reform)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rspjarvis/)
+
+
 ### Hi I'm Ryan 👋
 - 🔭 I’m currently working on the [Criminal Justice Hub](https://www.criminaljusticehub.org.uk) & [Official-Sensitive Secure eMail Network](https://www.github.com/official-sensitive)
 - 🤔 I’m looking for help with learning more about Markdown, Drupal and Docker
