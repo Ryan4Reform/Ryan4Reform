@@ -13,6 +13,6 @@ Welcome to my GitHub realm! I'm one of the digital wizards behind the [Criminal 
 - ⚡ Fun fact: I've tuned into the airwaves and have passed my UK Foundation Amateur Licence with the RSGB 🎉. Call sign ready!
 
 ## Let's Connect! 🤝
-If you're navigating the same digital seas or just want to say "hi", drop an anchor at my [Email](mailto:ryan.jarvis@official-sensitive.uk) or [LinkedIn](https://www.linkedin.com/in/legaleagleryan/) ports.
+If you're navigating the same digital seas or just want to say "hi", drop an anchor at my [Email](mailto:ryan.jarvis@ryanjarvis.law) or [LinkedIn](https://www.linkedin.com/in/legaleagleryan/) ports.
 
 Thanks for stopping by, and may your code be bug-free and your coffee strong. ☕️💻
